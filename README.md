@@ -1,5 +1,5 @@
 # Time-Travel-2D-Platformer
-[![Video](https://img.youtube.com/vi/_je1HDWBXCA/hqdefault.jpg)](https://www.youtube.com/watch?_je1HDWBXCA)  
+[![Video](https://img.youtube.com/vi/_je1HDWBXCA/hqdefault.jpg)](https://www.youtube.com/watch?v=_je1HDWBXCA)  
 https://youtu.be/_je1HDWBXCA  
 
   
